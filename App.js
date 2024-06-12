@@ -98,3 +98,6 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
   },
 });
+
+
+App.js
